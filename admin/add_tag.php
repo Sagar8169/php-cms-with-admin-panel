@@ -762,10 +762,7 @@ $tags = $conn->query("SELECT * FROM tags ORDER BY id DESC");
                                         <?= htmlspecialchars($tag['name']) ?>
                                     </div>
                                     <div class="wp-tag-actions">
-                                        <a href="edit_tag.php?id=<?= $tag['id'] ?>" class="wp-tag-action">
-                                            <i class="fas fa-edit"></i>
-                                            Edit
-                                        </a>
+                                    
                                         <a href="delete_tag.php?id=<?= $tag['id'] ?>"
                                            class="wp-tag-action danger"
                                            onclick="return confirm('Are you sure you want to delete this tag? This action cannot be undone.')">
