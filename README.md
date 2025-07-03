@@ -51,7 +51,7 @@ All screenshots are available in the folder:
 
 🛠️ Installation & Setup
 
-1. Clone the repository: git clone https://github.com/Sagar8169/php-cms-with-admin-panel.git
+1. Clone the repository: git clone https://github.com/Sagar8169/php-cms-with-admin-panel-main.git
    cd php-cms-with-admin-panel
 
 2. Create the Database:
@@ -67,4 +67,4 @@ Run the Project Locally:
 Put the folder in htdocs/ if you're using XAMPP.
 
 Access via browser:
-http://localhost/php-cms-with-admin-panel/
+http://localhost/php-cms-with-admin-panel-main/
