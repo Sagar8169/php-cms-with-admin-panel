@@ -15,7 +15,7 @@ A fully functional **News & Blog CMS** built with **PHP & MySQL**, featuring a m
 - 💬 Comments (basic integration logic included)
 - 📊 Dashboard overview panel
 
-➡️ **Admin Login URL**: [`localhost/php-cms-with-admin-pabel/admin/login.php`)
+➡️ **Admin Login URL**: [`localhost/php-cms-with-admin-panel-main/admin/login.php`)
 
 | Field       | Value              |
 |-------------|--------------------|
